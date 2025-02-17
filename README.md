@@ -1,4 +1,4 @@
-# LangChain Search Chatbot
+# LangChain Search Agent
 
 ### Overview
 
