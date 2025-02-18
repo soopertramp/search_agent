@@ -1,4 +1,14 @@
-# LangChain Search Agent
+---
+license: apache-2.0
+title: Search Engine
+sdk: streamlit
+emoji: 🌍
+colorFrom: green
+colorTo: red
+short_description: This is a Streamlit-based chatbot powered by LangChain, Groq
+---
+
+#LangChain Search Agent
 
 ### Overview
 
@@ -85,14 +95,3 @@ This project is open-source and available under the apache2.0 License.
 ### Contributing
 
 Feel free to submit issues or contribute improvements via pull requests on GitHub!
-
----
-license: apache-2.0
-title: Search Engine
-sdk: streamlit
-emoji: 🔍
-colorFrom: red
-colorTo: yellow
-short_description: This is a Streamlit-based chatbot powered by LangChain, Groq API, and multiple search tools, including DuckDuckGo, Arxiv, and Wikipedia. The chatbot can answer queries using a selected LLM model and retrieve real-time information from various sources.
----
-
