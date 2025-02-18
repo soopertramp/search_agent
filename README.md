@@ -8,7 +8,7 @@ colorTo: red
 short_description: This is a Streamlit-based chatbot powered by LangChain, Groq
 ---
 
-#LangChain Search Agent
+# LangChain Search Agent
 
 ### Overview
 
